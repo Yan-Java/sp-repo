@@ -6,7 +6,7 @@ import lombok.NoArgsConstructor;
 @NoArgsConstructor
 @AllArgsConstructor
 public class Item {
-	//鍚嶇О
+	//名称
 	private Integer id;
 	private String name;
 	private Integer number;
