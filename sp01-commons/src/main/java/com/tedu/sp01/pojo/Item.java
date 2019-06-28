@@ -12,7 +12,6 @@ public class Item {
 	//333333333333
         //222222222222
 	//名称
-	//444444
 	private Integer id;
 	private String name;
 	private Integer number;
